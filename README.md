@@ -14,11 +14,11 @@
 | [**CreditPulse**](https://github.com/Salil360-cyber/CreditPulse-Credit-Risk-Analytics) | End-to-end loan portfolio and credit risk analytics pipeline | SQL · Python · Power BI | Credit risk |
 | [**DockCheck**](https://github.com/Salil360-cyber/DockCheck-Shipment-Investigation) | Shipment delay and receiving-discrepancy investigation on supply chain order data | SQL (PostgreSQL) | Logistics |
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./assets/connect.svg?v=2)
 
 <p align="center">
+  <a href="https://salil360-cyber.github.io/portfolio/"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/salil-gokhale-analytics">LinkedIn</a> ·
-  <a href="https://github.com/Salil360-cyber">GitHub</a> ·
   <a href="mailto:gokhalesalil28@gmail.com">Email</a> ·
-  <a href="https://salil360-cyber.github.io">AI Portfolio</a>
+  <a href="https://salil360-cyber.github.io">AI work</a>
 </p>
